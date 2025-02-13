@@ -7,7 +7,7 @@
 #
 Name     : pypi-pyclip
 Version  : 0.7.0
-Release  : 2
+Release  : 3
 URL      : https://github.com/spyoungtech/pyclip/archive/refs/tags/v0.7.0.tar.gz
 Source0  : https://github.com/spyoungtech/pyclip/archive/refs/tags/v0.7.0.tar.gz
 Summary  : Cross-platform clipboard utilities supporting both binary and text data.
